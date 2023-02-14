@@ -3,13 +3,15 @@
 Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev since 2022 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
 
 # Working progress
-> [CV Generator](https://github.com/edgarrps/cv-generator)
+> [Ticketing Page](https://github.com/edgarrps/ticketing-page)
 
 
 #
 
 
 # Done projects
+> [CV Generator](https://github.com/edgarrps/cv-generator)
+
 > [ToDo List](https://github.com/edgarrps/todo-list)
 
 
