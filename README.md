@@ -1,6 +1,6 @@
 # Hello World!
 
-Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev since 2022 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
+Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
 
 # Working progress
 > [Pretty Calendar](https://github.com/edgarrps/pretty-calendar)
