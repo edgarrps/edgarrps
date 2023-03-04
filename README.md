@@ -3,6 +3,8 @@
 Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
 
 # Working progress
+> [Rick and Morty Wiki](https://github.com/edgarrps/rick-and-morty)
+
 > [Pretty Calendar](https://github.com/edgarrps/pretty-calendar)
 
 > [Ticketing Page](https://github.com/edgarrps/ticketing-page)
