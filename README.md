@@ -4,7 +4,6 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 # Working progress
 
-> [Finance App](https://github.com/edgarrps/finance-app)
 
 > [Rick and Morty Chars](https://github.com/edgarrps/rick-and-morty)
 
@@ -17,6 +16,8 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 
 # Done projects
+> [Finance App](https://github.com/edgarrps/finance-app)
+
 > [CV Generator](https://github.com/edgarrps/cv-generator)
 
 > [ToDo List](https://github.com/edgarrps/todo-list)
