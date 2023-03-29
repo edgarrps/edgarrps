@@ -4,8 +4,6 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 # Working progress
 
-> [Speech Recognition](https://github.com/edgarrps/speech-recognition)
-
 > [Rick and Morty Chars](https://github.com/edgarrps/rick-and-morty)
 
 > [Pretty Calendar](https://github.com/edgarrps/pretty-calendar)
@@ -17,11 +15,17 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 
 # Done projects
+
+> [Dic PT-BR](https://github.com/edgarrps/dic-ptbr)
+
+> [Speech Recognition](https://github.com/edgarrps/speech-recognition)
+
 > [Finance App](https://github.com/edgarrps/finance-app)
 
 > [CV Generator](https://github.com/edgarrps/cv-generator)
 
 > [ToDo List](https://github.com/edgarrps/todo-list)
+
 
 ![Edgar Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true)
 
