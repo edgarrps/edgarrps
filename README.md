@@ -15,6 +15,7 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 
 # Done projects
+> [Personal Blog](https://github.com/edgarrps/personal-blog)
 
 > [Dic PT-BR](https://github.com/edgarrps/dic-ptbr)
 
