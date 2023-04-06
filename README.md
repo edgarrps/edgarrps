@@ -27,7 +27,20 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 > [ToDo List](https://github.com/edgarrps/todo-list)
 
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true" />
+</picture>
+</p>
 
-![Edgar Santos' GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true)
-
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=-%20MY%20FAVORITE%20TECHNOLOGIES%20-&align=center&titleAlign=center&fontSize=16&lineHeight=10&lineCount=2&theme=tailwindcss&line1=react,react,f1acb5;javascript,javascript,8af8d5;tailwindcss,Tailwind%20CSS,06B6D4;&line2=CSS3,CSS,1572B6;HTML5,HTML,E34F26;)](https://github-readme-tech-stack.vercel.app/api/cards?title=-%20MY%20FAVORITE%20TECHNOLOGIES%20-&align=center&titleAlign=center&fontSize=16&lineHeight=10&lineCount=2&theme=tailwindcss&line1=react,react,f1acb5;javascript,javascript,8af8d5;tailwindcss,Tailwind%20CSS,06B6D4;&line2=CSS3,CSS,1572B6;HTML5,HTML,E34F26;)
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=-%20MY%20FAVORITE%20TECHNOLOGIES%20-&align=center&titleAlign=center&fontFamily=Roboto%20Mono&fontWeight=bold&showBorder=false&lineHeight=6&lineCount=2&theme=facebook&gap=8&hideBg=true&line1=TypeScript,TypeScript,3178C6;Next.js,Next.js,000000;react,react,3094e9;&line2=JavaScript,JavaScript,F7DF1E;TailwindCSS,TailwindCSS,06B6D4;" alt="My Tech Stack" />
+  </p>
