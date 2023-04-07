@@ -1,6 +1,7 @@
 # Hello World!
-
+<p align="center">
 Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
+ </p>
 
 # Working progress
 
