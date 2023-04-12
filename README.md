@@ -4,6 +4,7 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
  </p>
 
 # Working progress
+> [Ethereum Wallet](https://github.com/edgarrps/eth-wallet)
 
 > [Rick and Morty Chars](https://github.com/edgarrps/rick-and-morty)
 
