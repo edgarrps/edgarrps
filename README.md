@@ -29,17 +29,14 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 
 > [ToDo List](https://github.com/edgarrps/todo-list)
 
+
+<div align='center'>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edgarrps&layout=compact&langs_count=7&hide_border=true"/>
+</div>
+
 <p align="center">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=edgarrps&show_icons=true" />
+<img src="https://streak-stats.demolab.com?user=edgarrps&theme=transparent&hide_border=true&border_radius=0&date_format=j%2Fn%5B%2FY%5D" />
 </picture>
 </p>
 
