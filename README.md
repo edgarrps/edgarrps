@@ -43,5 +43,5 @@ Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍�
 </p>
 
 <p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=-%20MY%20FAVORITE%20TECHNOLOGIES%20-&align=center&titleAlign=center&fontFamily=Roboto%20Mono&fontWeight=bold&showBorder=false&lineHeight=6&lineCount=2&theme=facebook&gap=8&hideBg=true&line1=TypeScript,TypeScript,3178C6;Next.js,Next.js,000000;react,react,3094e9;&line2=JavaScript,JavaScript,F7DF1E;TailwindCSS,TailwindCSS,06B6D4;" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=-%20MY%20FAVORITE%20TECHNOLOGIES%20-&align=center&titleAlign=center&fontFamily=Roboto%20Mono&fontWeight=bold&showBorder=false&lineHeight=6&lineCount=2&theme=facebook&gap=8&hideBg=true&line1=TypeScript,TypeScript,3178C6;Next.js,Next.js,000000;react,react,3094e9;&line2=JavaScript,JavaScript,F7DF1E;TailwindCSS,TailwindCSS,06B6D4;Go,Go,06B6C1" alt="My Tech Stack" />
   </p>
