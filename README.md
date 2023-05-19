@@ -2,7 +2,6 @@
 <p align="center">
 Hi everyone, my name is Edgar Santos. I'm a brazilian Front-end Dev 👨🏽‍💻. I'm also a firefighter 👨🏽‍🚒.
  </p>
-
 # Working progress
 > [Leaflet Map](https://github.com/edgarrps/leaflet-map)
 
